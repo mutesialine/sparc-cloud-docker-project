@@ -2,7 +2,7 @@
 
 This is a full-stack todo application used as a Docker challenge. Your job is to containerize it.
 
-**Read this file first to understand the app, then open `CHALLENGES.md` to get started.**
+**Read this file first to understand the app, then open `CHALLENGE.md` to get started.**
 
 ---
 
