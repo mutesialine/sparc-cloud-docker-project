@@ -35,4 +35,4 @@ During development, the frontend and backend run as separate services because th
 
 ## The Challenge
 
-See [`CHALLENGES.md`](./CHALLENGES.md) for the full challenge instructions and learning objectives.
+See [`CHALLENGE.md`](./CHALLENGE.md) for the full challenge instructions and learning objectives.
