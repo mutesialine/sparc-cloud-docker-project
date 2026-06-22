@@ -2,8 +2,6 @@
 
 **Objective:** Containerize a full-stack application by writing a multi-stage `Dockerfile` and a `compose.yaml` from scratch, combining a React frontend, a Node.js backend, and a MySQL database into a working multi-container setup with proper networking, data persistence, and live code syncing.
 
-Before you start: Read the watch the video to see how the final result looks like the app, please do not touch the codebase and focus only on the docker part.
-
 ### **Getting Started: Use Template & Clone the Repository**
 
 **Step 1. Create a repository from the template**
